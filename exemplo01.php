@@ -17,6 +17,8 @@
 		$variavel1 = 10; //integer
 		$variavel2 = 10.5; //float
 		$variavel3 = "Texto"; //string
+		
+		
 		echo "O valor de variavel1 é " . $variavel1;
 		echo "O valor de variavel2 é " . $variavel2;
 		echo "O valor de variavel3 é " . $variavel3;
